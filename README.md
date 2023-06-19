@@ -4,7 +4,6 @@ Aplicación del clima construida utilizando ReactJS y Tailwind CSS. Proporciona 
 
 La aplicación está diseñada para ser responsive, asegurando una experiencia fluida en diferentes dispositivos, incluyendo ordenadores de escritorio y móviles. En pantallas de escritorio, el contenido se muestra centrado dentro del div principal, creando un diseño limpio y organizado. Cuando se visualiza en dispositivos móviles, la aplicación se ajusta a una pantalla completa sin espacios adicionales, permitiendo a los usuarios ver la información del clima de manera más conveniente.
 ![View_APP](https://i.imgur.com/TP7eZd2.png)
-![View_APP_Mobile](https://i.imgur.com/NcO4rZL.png)
 
 Al integrar la API de OpenWeatherMap,  garantiza información del clima confiable y actualizada, permitiendo a los usuarios planificar sus actividades de manera adecuada y mantenerse informados sobre las condiciones climáticas actuales.
 
