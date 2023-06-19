@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    font-family: 'Lexend', sans-serif;
+  }
+h1 {
+    font-weight: bold;
+}
+
+  
+
