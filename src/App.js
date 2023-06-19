@@ -2,7 +2,6 @@ import React, { useState } from "react"
 import InfoCard from "./components/InfoCard"
 import SummaryCard from "./components/SummaryCard"
 import { TiWeatherSunny, TiWeatherDownpour, TiWeatherCloudy, TiWeatherSnow, TiWeatherStormy, TiWeatherPartlySunny } from 'react-icons/ti';
-
 import { MdAddLocationAlt, MdSearch, MdLocationOn } from 'react-icons/md';
 import Logo from './assets/Logo.png';
 import hero from './assets/bbblurry.svg';
@@ -69,7 +68,6 @@ function App() {
   };
 
   return (
-
     <div className="flex flex-col lg:flex-row md:items-center md:justify-center m-auto sm:py-0 md:py-10 h-screen md:overflow-hidden ">
       <img src={hero} className="absolute top-0 left-0 w-screen h-screen object-cover" alt="Hero SVG" />
       <div className=" z-10 flex flex-col lg:flex-row md:w-3/4 sm:w-full sm:h-screen md:h-full lg:h-full xl:h-full  md:rounded-3xl shadow-lg  bg-gradient-to-r from-rose-400 to-orange-300">
@@ -130,7 +128,6 @@ function App() {
         </div>
       </div>
     </div>
-
   );
 }
 
